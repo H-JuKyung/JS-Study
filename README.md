@@ -22,3 +22,9 @@
 ## Responsive Number Counting Animation 프로젝트
 ### 📸 실행 화면
 ![실행 화면 1](images/Responsive%20Number%20Counting%20Animation/img1.gif)
+
+---
+
+## Random Joke Generator 프로젝트
+### 📸 실행 화면
+![실행 화면 1](images/Random%20Joke%20Generator/img1.gif)
